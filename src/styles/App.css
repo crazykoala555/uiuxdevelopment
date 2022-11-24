@@ -1,0 +1,18 @@
+.App {
+  /*display: flex;*/
+  /*flex-direction: row;*/
+  /*flex-wrap: nowrap;*/
+  /*justify-content: space-between;*/
+    background-color: #ffffff;
+}
+#siteTitle{
+    text-align: center;
+}
+#content{
+    display: flex;
+    flex-direction: row;
+}
+#itemArea{
+    margin-left: 15vw;
+    margin-right: 15vw;
+}

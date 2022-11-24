@@ -1,0 +1,15 @@
+#filter-area{
+    width: 15vw;
+    height: 100vh;
+    display: flex;
+    position: fixed;
+    background-color: #ffffff;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    border-right:solid #c4c4c4 2px;
+}
+
+.config {
+    margin: 0 100px;
+}

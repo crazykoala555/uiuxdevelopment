@@ -1,0 +1,19 @@
+#cart-area {
+    width: 15vw;
+    height: 100vh;
+    display: flex;
+    position: fixed;
+    background-color: #ffffff;
+    padding: 10px;
+    margin-left: 83vw;
+    flex-direction: column;
+    border-left: solid #c4c4c4 2px;
+    overflow: scroll;
+}
+.cartItem{
+    border: ghostwhite solid 1px;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0 5px 10px #8e8e8e;
+    margin: 10px 0;
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Assetto Corsa",
+    "description": "Ultra Realistic Racing Simulator",
+    "studio" : "Kunos Simulazioni",
+    "genre" : "Racing",
+    "platform" : ["Xbox", "PlayStation", "PC"],
+    "price": 3.99,
+    "thumbnail": "images/assettocorsa.jpg"
+  },
+  {
+    "name": "Forza Horizon 5",
+    "description": "Open World Racing Game",
+    "studio" : "Playground Games",
+    "genre" : "Racing",
+    "platform" : ["Xbox", "PC"],
+    "price": 59.99,
+    "thumbnail": "images/forzahorizon5.jpg"
+  },
+  {
+    "name": "Gran Tourismo 7",
+    "description": "Track Focused Racing Game",
+    "studio" : "Polyphony Digital",
+    "genre" : "Racing",
+    "platform" : ["PlayStation", "PC"],
+    "price": 59.99,
+    "thumbnail": "images/grantourismo7.webp"
+  },
+  {
+    "name": "Valorant",
+    "description": "Competitive Shooter",
+    "studio" : "Riot Games",
+    "genre" : "First-Person Shooter",
+    "platform" : ["PC"],
+    "price": 0.00,
+    "thumbnail": "images/valorant.jpg"
+  },
+  {
+    "name": "Far Cry 6",
+    "description": "Open World Shooter",
+    "studio" : "Ubisoft",
+    "genre" : "First-Person Shooter",
+    "platform" : ["Xbox", "PC", "PlayStation"],
+    "price": 59.99,
+    "thumbnail": "images/farcry6.webp"
+  },
+  {
+    "name": "Halo Infinite",
+    "description": "Futuristic Shooter",
+    "studio" : "343 Industries",
+    "genre" : "First-Person Shooter",
+    "platform" : ["Xbox", "PC"],
+    "price": 59.99,
+    "thumbnail": "images/haloinfinite.jpg"
+  },
+  {
+    "name": "Minecraft",
+    "description": "Open World Survival and Creative Game",
+    "studio" : "Mojang",
+    "genre" : "Open World",
+    "platform" : ["Xbox", "PC", "PlayStation", "Switch"],
+    "price": 24.99,
+    "thumbnail": "images/minecraft.jpg"
+  },
+  {
+    "name": "Terraria",
+    "description": "Open World Survival and Creative Game",
+    "studio" : "Re-Logic",
+    "genre" : "Open World",
+    "platform" : ["Xbox", "PC", "PlayStation", "Switch"],
+    "price": 24.99,
+    "thumbnail": "images/terraria.jpg"
+  },
+  {
+    "name": "Sackboy A Big Adventure",
+    "description": "Cutesy Level-Based Adventure Game",
+    "studio" : "Sumo Digital",
+    "genre" : "Co-Op",
+    "platform" : ["PC", "PlayStation"],
+    "price": 59.99,
+    "thumbnail": "images/sackboy.jpg"
+  },
+  {
+    "name": "Beam.NG Drive",
+    "description": "Racing Soft Body Physics Simulator",
+    "studio" : "BeamNG",
+    "genre" : "Racing",
+    "platform" : ["PC"],
+    "price": 19.99,
+    "thumbnail": "images/beamng.jpg"
+  },
+  {
+    "name": "Overcooked",
+    "description": "Collaborative Cooking Game",
+    "studio" : "Team17",
+    "genre" : "Co-Op",
+    "platform" : ["Xbox", "PC", "PlayStation", "Switch"],
+    "price": 19.99,
+    "thumbnail": "images/overcooked.jpg"
+  },
+  {
+    "name": "Overcooked 2",
+    "description": "Collaborative Cooking Game, Version 2!",
+    "studio" : "Team17",
+    "genre" : "Co-Op",
+    "platform" : ["Xbox", "PC", "PlayStation", "Switch"],
+    "price": 29.99,
+    "thumbnail": "images/overcooked2.jpg"
+  }
+]

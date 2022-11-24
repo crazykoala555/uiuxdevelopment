@@ -1,0 +1,41 @@
+#item-area{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.itemCard{
+    flex-basis: 25%;
+    padding: 10px;
+}
+.titleContent{
+    display: flex;
+    justify-content: space-between;
+}
+.platformArea{
+    display: flex;
+}
+.Xbox{
+    margin: 0.1rem;
+    padding: 0.3rem;
+    border: solid lawngreen 2px;
+    border-radius: 10px;
+}
+.PC{
+    margin: 0.1rem;
+    padding: 0.3rem;
+    border: solid Black 2px;
+    border-radius: 10px;
+}
+.PlayStation{
+    margin: 0.1rem;
+    padding: 0.3rem;
+    border: solid dodgerblue 2px;
+    border-radius: 10px;
+}
+.Switch{
+    margin: 0.1rem;
+    padding: 0.3rem;
+    border: solid red 2px;
+    border-radius: 10px;
+}
